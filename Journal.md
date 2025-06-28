@@ -21,9 +21,11 @@ Also draws more power. Having one gives more reason to look at the boards when t
 
 Also, both of the previous cost moar money.
 
-While an oled could be useful for indicating layer and the like, I think it would be more useful to create firmware that creates a popup at the change, like so
+While an oled could be useful for indicating layer and the like, I think it would be more useful to create firmware that creates a popup at the change, like so:
 ![image](https://github.com/user-attachments/assets/5b52fa8e-0bbf-4b7a-8015-38912b0aa48b)
 
 On to the designing!
 Here's a photo of my layout
 ![image](https://github.com/user-attachments/assets/6f637538-ed53-4dda-878b-5488ec5c6f96)
+
+Next, the case
