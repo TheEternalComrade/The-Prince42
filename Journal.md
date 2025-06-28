@@ -7,7 +7,7 @@ created_at: "2024-06-27"
 ## June 27, 2025
 This keyboard is based upon my er.. endeavors to make the Prince54. Imma be real, it kinda sucks. I made so many mistake and oversights. But, what does't kill us makes us stronger? Lets hope nothing goes wrong this time.
 
-I'm going to handwire this board. Why? Because it makes replacing a broken microcontroller(4 broke with the Prince54) much easier. Also, I ain't tryna bankrupt Hack Club with the pcb cost. I'm trying to make this board as affordable as I can.
+I'm going to handwire this board. Why? Because it makes replacing a broken microcontroller(4 broke with the Prince54) much easier. In fact, it makes replacing everything easier(except maybe keycaps). Also, I ain't tryna bankrupt Hack Club with the pcb cost. I'm trying to make this board as affordable as I can.
 
 In addition, this keyboard will be wireless cause it's just more convenient.
 
@@ -32,12 +32,19 @@ I did take some inspiration from the Corne on this layout.
 
 Tommorrow, I'll work one the case and wiring.
 
+Time spent: 1 hour
+
 ## June 28, 2025
-I spent a lot of timing figuring out a compact tenting solution. After some research, I think I'll settle on something like these.
+I spent a lot of timing figuring out a compact tenting solution. After some research, I think I'll settle on something like these:
 ![image](https://github.com/user-attachments/assets/31606ef8-f5a2-4467-9985-42b1f31a15c8)
 <i>https://imkulio.com/build-guide.html</i>
 
 ![image](https://github.com/user-attachments/assets/b457f1f2-e7be-41ab-86f5-9cdb678deb1d)
 <i>https://kriscables.com/product/corne-cherry-tenting-case-kit/</i>
 
-So, I'm going to be using 2 Nice!Nano clones as microcontrollers for this keyboard
+I'm going to be using 2 Nice!Nano clones as microcontrollers for this keyboard. I'm also adding a slide switch so I can cut off power and preserve battery when not in use. Here are the wiring diagrams:
+![image](https://github.com/user-attachments/assets/9181c307-5418-44a2-a3bd-ab242bf50409)
+![image](https://github.com/user-attachments/assets/6ce1fec0-73e3-40c5-8b7c-b2074254437c)
+
+I experimented a bit with the thumb cluster on the Prince54, and de
+
