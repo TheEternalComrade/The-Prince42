@@ -19,7 +19,7 @@ They draw more power. Plus, I don't particularly care for the effect.
 ### Why no oled?
 Also draws more power. Having one gives more reason to look at the boards when typing, which is a big no-no when it comes to touch typings.
 
-Also, both of the previous cost moar money.
+(Also, both of the previous cost more money.)
 
 While an oled could be useful for indicating layer and the like, I think it would be more useful to create firmware that creates a popup at the change, like so:
 ![image](https://github.com/user-attachments/assets/5b52fa8e-0bbf-4b7a-8015-38912b0aa48b)
