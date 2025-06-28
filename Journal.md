@@ -46,5 +46,9 @@ I'm going to be using 2 Nice!Nano clones as microcontrollers for this keyboard. 
 ![image](https://github.com/user-attachments/assets/9181c307-5418-44a2-a3bd-ab242bf50409)
 ![image](https://github.com/user-attachments/assets/6ce1fec0-73e3-40c5-8b7c-b2074254437c)
 
-I experimented a bit with the thumb cluster on the Prince54, and de
+I experimented a bit with the thumb cluster on the Prince54, and decided that it would be a good idea to shift the thumb cluster a little bit closer to the other keys.
+![image](https://github.com/user-attachments/assets/6de886cd-e504-48b3-9bb9-7544d7c5de3e)
+
+Now, it's time to make the plate.
+
 
