@@ -38,6 +38,6 @@ I spent a lot of timing figuring out a compact tenting solution. After some rese
 <i>https://imkulio.com/build-guide.html</i>
 
 ![image](https://github.com/user-attachments/assets/b457f1f2-e7be-41ab-86f5-9cdb678deb1d)
-
+<i>https://kriscables.com/product/corne-cherry-tenting-case-kit/</i>
 
 So, I'm going to be using 2 Nice!Nano clones as microcontrollers for this keyboard
