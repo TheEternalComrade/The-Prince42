@@ -28,7 +28,14 @@ On to the designing!
 Here's a photo of my layout
 ![image](https://github.com/user-attachments/assets/6f637538-ed53-4dda-878b-5488ec5c6f96)
 
-Next, the case.
+I did take some inspiration from the Corne on this layout.
+
+Tommorrow, I'll work one the case and wiring.
 
 ## June 28, 2025
+I spent a lot of timing figuring out a compact tenting solution. After some research, I think I'll settle on something like these.
+![image](https://github.com/user-attachments/assets/31606ef8-f5a2-4467-9985-42b1f31a15c8)
+![image](https://github.com/user-attachments/assets/b457f1f2-e7be-41ab-86f5-9cdb678deb1d)
+
+
 So, I'm going to be using 2 Nice!Nano clones as microcontrollers for this keyboard
