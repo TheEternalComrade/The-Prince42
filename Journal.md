@@ -28,4 +28,7 @@ On to the designing!
 Here's a photo of my layout
 ![image](https://github.com/user-attachments/assets/6f637538-ed53-4dda-878b-5488ec5c6f96)
 
-Next, the case
+Next, the case.
+
+## June 28, 2025
+So, I'm going to be using 2 Nice!Nano clones as microcontrollers for this keyboard
