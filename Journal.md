@@ -35,6 +35,8 @@ Tommorrow, I'll work one the case and wiring.
 ## June 28, 2025
 I spent a lot of timing figuring out a compact tenting solution. After some research, I think I'll settle on something like these.
 ![image](https://github.com/user-attachments/assets/31606ef8-f5a2-4467-9985-42b1f31a15c8)
+<i>https://imkulio.com/build-guide.html</i>
+
 ![image](https://github.com/user-attachments/assets/b457f1f2-e7be-41ab-86f5-9cdb678deb1d)
 
 
