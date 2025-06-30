@@ -53,3 +53,12 @@ Next, i'll make the plate.
 
 Time spent: 1 hour
 
+## June 29, 2025
+I imported a dxf of my plate in to fusion 360. This is what I've got so far:
+![image](https://github.com/user-attachments/assets/84dd3b3e-7bf6-4797-a502-7fcd25a5a3ea)
+
+Designing the case will be a little harder than I thought, as there is no pcb to design it around. But, this also means less limitations!
+
+Time spent: 1 hour
+
+
