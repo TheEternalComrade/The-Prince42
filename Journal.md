@@ -66,3 +66,11 @@ At work, I drew some sketches of how the microntroller would be mounted![2025063
 
 I was originally going to use header pins on the microntrollers, then I saw a design with none and realized I could essential use the matrix wires as header pins.
 
+I designed the barebones for the bottom part and plate of my pcb.
+![Screenshot 2025-06-30 220742](https://github.com/user-attachments/assets/c3a44c24-824e-4ef8-ad50-db289ed3fd34)
+![image](https://github.com/user-attachments/assets/e28b316c-e569-4c10-b700-fefd680e210b)
+
+I'll mostly remove parts from the plate to make room for the microcontroller and microcontroller cover. 
+
+Time Spent: 2 hours
+
