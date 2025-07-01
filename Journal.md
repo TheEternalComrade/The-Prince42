@@ -61,4 +61,8 @@ Designing the case will be a little harder than I thought, as there is no pcb to
 
 Time spent: 1 hour
 
+## June 30, 2025
+At work, I drew some sketches of how the microntroller would be mounted![20250630_141002](https://github.com/user-attachments/assets/3050a7af-cbdd-451e-86b7-cec8de6645a3)
+
+I was originally going to use header pins on the microntrollers, then I saw a design with none and realized I could essential use the matrix wires as header pins.
 
