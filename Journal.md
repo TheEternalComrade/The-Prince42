@@ -74,3 +74,13 @@ I'll mostly remove parts from the plate to make room for the microcontroller and
 
 Time Spent: 2 hours
 
+## July 2, 2025
+I added keycaps and switches!
+![Screenshot 2025-07-01 232804](https://github.com/user-attachments/assets/d0d6bd6b-92e2-4618-af66-a0a15f38ba19)
+
+In addition, on the underside of my switch plate I made a 1mm offset around each switch and made those areas 1.2 mm thick, the thickness needed for the Gateron ks-33 switches to snap in.
+![image](https://github.com/user-attachments/assets/12d3dd97-ef87-46c3-b2c2-8c6861905a21)
+
+I think having a cover for the microcontroller on this case would be really cool, so this is what I have so far:
+![image](https://github.com/user-attachments/assets/65bab1f7-eddd-4183-82ae-b1706822b0c4)
+I wanna use the m2 x 10 screws I have on hand, instead of getting a different length, so I might need to raise the screw hole. 
