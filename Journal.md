@@ -84,3 +84,5 @@ In addition, on the underside of my switch plate I made a 1mm offset around each
 I think having a cover for the microcontroller on this case would be really cool, so this is what I have so far:
 ![image](https://github.com/user-attachments/assets/65bab1f7-eddd-4183-82ae-b1706822b0c4)
 I wanna use the m2 x 10 screws I have on hand, instead of getting a different length, so I might need to raise the screw hole. 
+
+Time Spent: 2 hours
