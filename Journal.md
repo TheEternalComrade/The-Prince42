@@ -98,3 +98,6 @@ I'm using a ss12f15 slide switch. This will allow me to turn off the keyboard ha
 
 Time spent: 3 hours
 
+## July 4, 2025
+We're almost there! I've more or less finished the cad part of this project and added some branding.
+![image](https://github.com/user-attachments/assets/c4145c90-716c-4d77-834b-ae748b4c9a62)
