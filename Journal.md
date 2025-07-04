@@ -93,3 +93,8 @@ Today I worked on the microcontroller cover, the tenting solution, and the slide
 Generally speaking, laying your hands flat while typing isn't the most optimal position. In fact, our hands naturally tend to want to be on their sides. So, with tenting, your hands can lay in a more natural and ergonomic position. I considered many different tenting options, but ultimately, I decided that using screws would be the best option, it's very compact, and it's pretty cheap.
 ![image](https://github.com/user-attachments/assets/aa8ca6ca-e3fd-44c8-a8c9-5890c9168122)
 
+I'm using a ss12f15 slide switch. This will allow me to turn off the keyboard halves when I'm not using them and conserve energy.
+![image](https://github.com/user-attachments/assets/ca8d2747-9b30-490a-8fa7-7598589fbfc7)
+
+Time spent: 3 hours
+
