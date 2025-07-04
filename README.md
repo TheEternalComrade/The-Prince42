@@ -10,7 +10,7 @@ The Prince42 is a handwired, low-profile, wireless split keyboard. The impetus f
 ![image](https://github.com/user-attachments/assets/efb41622-3946-4931-8752-e6d1a9140abf)
 
 ## BOM
-| Name   | Purpose      | Source         | Price | Total | Link|
+| Name   | Purpose      | Source         | Price | Link | Total|
 |:-------|:-------------|:---------------|:------|:------|:----------|
 | Gateron KS-33 Banana Switches | To complete a circuit when pressed | Amazon | $20 |[link](https://www.amazon.com/gp/product/B0D22TVSZZ/ref=ox_sc_act_title_7?smid=A3TKBP5XSITCSE&psc=1 )|
 | XVX Low-Profile Keycaps | To make activating keyswitches more comfortable | Amazon | $13 |[link](https://www.amazon.com/gp/product/B0DHZRD5H1/ref=ox_sc_act_title_2?smid=AFB5KTL5FE772&th=1)|
