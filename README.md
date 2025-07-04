@@ -10,3 +10,13 @@ The Prince42 is a handwired, low-profile, wireless split keyboard. The impetus f
 ![image](https://github.com/user-attachments/assets/efb41622-3946-4931-8752-e6d1a9140abf)
 
 ## BOM
+| Name   | Purpose      | Source         | Price | Total | Link|
+|:-------|:-------------|:---------------|:------|:------|:----------|
+| Gateron KS-33 Banana Switches | To complete a circuit when pressed | Amazon | $20 |[Link](https://www.amazon.com/gp/product/B0D22TVSZZ/ref=ox_sc_act_title_7?smid=A3TKBP5XSITCSE&psc=1 )|
+| XVX Low-Profile Keycaps | To make activating keyswitches more comfortable | Amazon | $13 |https://www.amazon.com/gp/product/B0DHZRD5H1/ref=ox_sc_act_title_2?smid=AFB5KTL5FE772&th=1|
+| M3 x L12 Screw| Tenting | Aliexpress | $1.59 |[link](https://www.aliexpress.com/item/2255800598515019.html?spm=a2g0o.cart.0.0.6b6638daq4cyGf&mp=1&pdp_npi=5%40dis%21USD%21USD%201.63%21USD%201.59%21%21USD%201.59%21%21%21%402103247417516677501702212e7532%2112000036122606126%21ct%21US%216369324848%21%211%210&_gl=1*1gflyaa*_gcl_aw*R0NMLjE3NDg2NDY3NzguQ2p3S0NBandydVhCQmhBckVpd0FDQlJ0SGY0Y1FsdERxTktaektpTjZvQXhCbXFSMlVYNXRxb3pmckRVNE92VTQ4VkNDU2xpWFhZYlFob0NZMzRRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3NDg2NDY3NzguQ2p3S0NBandydVhCQmhBckVpd0FDQlJ0SGY0Y1FsdERxTktaektpTjZvQXhCbXFSMlVYNXRxb3pmckRVNE92VTQ4VkNDU2xpWFhZYlFob0NZMzRRQXZEX0J3RQ..*_gcl_au*Mjc3OTY4OTE5LjE3NDcyNzI0MDM.*_ga*MTg4Nzg1MzEwLjE3NTE2Njc3MDQ.*_ga_VED1YSGNC7*czE3NTE2Njc3MDMkbzEkZzEkdDE3NTE2Njc3NTEkajEyJGwwJGgw)|
+| M3 x L30 Screws | Tenting | Aliexpress | $2.41 |[](https://www.aliexpress.com/item/2255800598515019.html?spm=a2g0o.cart.0.0.6b6638daq4cyGf&mp=1&pdp_npi=5%40dis%21USD%21USD%202.49%21USD%202.41%21%21USD%202.41%21%21%21%402103247417516677501702212e7532%2112000036122606133%21ct%21US%216369324848%21%211%210&_gl=1*1gflyaa*_gcl_aw*R0NMLjE3NDg2NDY3NzguQ2p3S0NBandydVhCQmhBckVpd0FDQlJ0SGY0Y1FsdERxTktaektpTjZvQXhCbXFSMlVYNXRxb3pmckRVNE92VTQ4VkNDU2xpWFhZYlFob0NZMzRRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3NDg2NDY3NzguQ2p3S0NBandydVhCQmhBckVpd0FDQlJ0SGY0Y1FsdERxTktaektpTjZvQXhCbXFSMlVYNXRxb3pmckRVNE92VTQ4VkNDU2xpWFhZYlFob0NZMzRRQXZEX0J3RQ..*_gcl_au*Mjc3OTY4OTE5LjE3NDcyNzI0MDM.*_ga*MTg4Nzg1MzEwLjE3NTE2Njc3MDQ.*_ga_VED1YSGNC7*czE3NTE2Njc3MDMkbzEkZzEkdDE3NTE2Njc3NTEkajEyJGwwJGgw)|
+| Rubber Bumpers | To allow the two halves of the keyboard to communicate | Aliexpress | $2.86 ||
+| RJ11/6P4C Cable | To connect the two jacks | Aliexpress | $1.73 ||
+| RP2040-Zero | To communicate information from the PCB to the computer | Aliexpress | $3.42 ||
+|||||$131.61|
