@@ -29,5 +29,5 @@ The Prince42 is a handwired, low-profile, wireless split keyboard. The impetus f
 |150 mAh LiPo Battery|To power each keeb half|Amazon|$16|[link](https://www.amazon.com/gp/product/B0CNLP3RH6/ref=ox_sc_act_title_5?smid=A1L20YI3FVY1RX&psc=1)|
 |Taxes|something something government benefits|Amazon|$4.50|how would i even do that?|
 |||||$86.63|
-|||||$83.1|
-*I already have these
+
+*I already have these. The actual price is $83.10
