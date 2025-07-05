@@ -109,6 +109,8 @@ Time Spent: 2 hours
 
 ## July 5, 2025
 Now, we make the firmware
+![image](https://github.com/user-attachments/assets/56a8cc50-a569-4b36-afa5-e540da7f466b)
+
 
 Time Spent: 2 hours
 
