@@ -26,5 +26,5 @@ The Prince42 is a handwired, low-profile, wireless split keyboard. The impetus f
 |Promicro NRF52840|To send information to computer|Aliexpress|$7.54|[link](https://www.aliexpress.com/item/3256803752541650.html?spm=a2g0o.cart.0.0.6b6638daq4cyGf&mp=1&pdp_npi=5%40dis%21USD%21USD%202.71%21USD%202.61%21%21USD%202.61%21%21%21%402103247417516677501702212e7532%2112000027515454290%21ct%21US%216369324848%21%211%210&_gl=1*16lrkdf*_gcl_aw*R0NMLjE3NDg2NDY3NzguQ2p3S0NBandydVhCQmhBckVpd0FDQlJ0SGY0Y1FsdERxTktaektpTjZvQXhCbXFSMlVYNXRxb3pmckRVNE92VTQ4VkNDU2xpWFhZYlFob0NZMzRRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3NDg2NDY3NzguQ2p3S0NBandydVhCQmhBckVpd0FDQlJ0SGY0Y1FsdERxTktaektpTjZvQXhCbXFSMlVYNXRxb3pmckRVNE92VTQ4VkNDU2xpWFhZYlFob0NZMzRRQXZEX0J3RQ..*_gcl_au*Mjc3OTY4OTE5LjE3NDcyNzI0MDM.*_ga*MTg4Nzg1MzEwLjE3NTE2Njc3MDQ.*_ga_VED1YSGNC7*czE3NTE2Njc3MDMkbzEkZzEkdDE3NTE2NjgxMDIkajU5JGwwJGgw)|
 |M2 x L3 Heatset Inserts|To hold M2 screws|Aliexpress||$131.61|
 |M2 x  L10 Screws|To attach plate and bottom casing|Aliexpress||$131.61|
-|||||$131.61|
+|150 mAh LiPo Battery|To power each keeb half|$Amazon|$16|[link](https://www.amazon.com/gp/product/B0CNLP3RH6/ref=ox_sc_act_title_5?smid=A1L20YI3FVY1RX&psc=1)|
 |||||$131.61|
