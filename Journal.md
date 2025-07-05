@@ -4,7 +4,7 @@ author: "@ayo"
 description: "A wireless low profile, split keyboard"
 created_at: "2024-06-27"
 ---
-### Total time spent: 12 hours
+### Total time spent: 16 hours
 ## June 27, 2025
 This keyboard is based upon my er.. endeavors to make the Prince54. Imma be real, it kinda sucks. I made so many mistake and oversights. But, what does't kill us makes us stronger? Lets hope nothing goes wrong this time.
 
@@ -108,9 +108,19 @@ I also spent some time considering whether or not I wanted to add a [cirque trac
 Time Spent: 2 hours
 
 ## July 5, 2025
-Now, we make the firmware
+Now, we make the firmware:
 ![image](https://github.com/user-attachments/assets/56a8cc50-a569-4b36-afa5-e540da7f466b)
 
+Contrary to seemingly common sentiment, the ZMK docs were extremely useful for making my firmware, along with Joe Scotto's firmware guide.
 
-Time Spent: 2 hours
+Of course, while compiling my firmware I ran into quite a few errors:
+![image](https://github.com/user-attachments/assets/ba63e64f-07af-4243-929b-10392d401811)
+
+But it was really easy to figure out with ZMK's troubleshooting guide.
+
+So, my firmware is done!!! Which means the Prince42 is done! For now...
+![image](https://github.com/user-attachments/assets/d3c4d604-b6b8-4212-ad8c-6bd2fda50d6a)
+
+
+Time Spent: 4 hours
 
