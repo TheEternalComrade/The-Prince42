@@ -4,6 +4,7 @@ author: "@ayo"
 description: "A wireless low profile, split keyboard"
 created_at: "2024-06-27"
 ---
+### Total time spent: 12 hours
 ## June 27, 2025
 This keyboard is based upon my er.. endeavors to make the Prince54. Imma be real, it kinda sucks. I made so many mistake and oversights. But, what does't kill us makes us stronger? Lets hope nothing goes wrong this time.
 
@@ -101,3 +102,13 @@ Time spent: 3 hours
 ## July 4, 2025
 We're almost there! I've more or less finished the cad part of this project and added some branding.
 ![image](https://github.com/user-attachments/assets/c4145c90-716c-4d77-834b-ae748b4c9a62)
+
+I also spent some time considering whether or not I wanted to add a [cirque trackpad](https://bastardkb.com/wp-content/uploads/2023/09/IMG_1087-2-scaled.jpg) to my keyboard. Unfortunately, ZMK doesn't have native support for it and a mini trackpad would be kinda finicky to use.
+
+Time Spent: 2 hours
+
+## July 5, 2025
+Now, we make the firmware
+
+Time Spent: 2 hours
+
