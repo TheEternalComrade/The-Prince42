@@ -29,6 +29,7 @@ The Prince42 is a handwired, low-profile, wireless split keyboard. The impetus f
 |*M2 x  L10 Screws|To attach plate and bottom casing|Aliexpress|$1.85|[link](https://www.aliexpress.us/item/2255801062616407.html?spm=a2g0o.productlist.main.2.12d3c14e3EAOkk&algo_pvid=f52a757f-0936-4e71-b9b4-2794cd6ae466&algo_exp_id=f52a757f-0936-4e71-b9b4-2794cd6ae466-1&pdp_ext_f=%7B%22order%22%3A%221026%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.60%211.55%21%21%211.60%211.55%21%40210318c317517357251142457ecbf5%2112000034160900239%21sea%21US%216369324848%21X&curPageLogUid=1So89qBmgCSc&utparam-url=scene%3Asearch%7Cquery_from%3A)|
 |150 mAh LiPo Battery|To power each keeb half|Amazon|$16|[link](https://www.amazon.com/gp/product/B0CNLP3RH6/ref=ox_sc_act_title_5?smid=A1L20YI3FVY1RX&psc=1)|
 |Taxes|something something government benefits|Amazon|$4.50|how would i even do that?|
+|Solder Wire|To connect components|Aliexpress|$2.4|[link](https://www.aliexpress.us/item/3256806982051908.html?spm=a2g0o.productlist.main.1.243bwodbwodbce&algo_pvid=f0bd73fa-940c-459f-a6c0-61c7ce88c201&algo_exp_id=f0bd73fa-940c-459f-a6c0-61c7ce88c201-0&pdp_ext_f=%7B%22order%22%3A%2213743%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.69%211.69%21%21%2112.02%2112.02%21%402101ef7017518427969305034ebd3b%2112000039681369351%21sea%21US%216369324848%21X&curPageLogUid=k1Pk1GU7PbK2&utparam-url=scene%3Asearch%7Cquery_from%3A)|
 |||||$90.40|
 
 *I already have these. The actual price is $86.87
