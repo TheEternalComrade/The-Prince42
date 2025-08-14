@@ -121,12 +121,13 @@ But it was really easy to figure out with ZMK's troubleshooting guide.
 So, my firmware is done!!! Which means the Prince42 is done! For now...
 ![image](https://github.com/user-attachments/assets/d3c4d604-b6b8-4212-ad8c-6bd2fda50d6a)
 
-![Uploading 20250807_223822.jpg…]()
+![20250807_223822](https://github.com/user-attachments/assets/31b5c474-cf5c-43d8-a3e3-6c8274eacbdc)
 
 Time Spent: 4 hours
 
 ## August 8, 2025
 I finally finished building! I did encounter some issues in firmware, like a reversed column mapping and Bluetooth not working, but with some research, experimentation, and asking questions in the zmk discord, I managed to get everything working perfectly!
+![Uploading 20250807_223822.jpg…]()
 
 
 https://youtube.com/shorts/D0bNBm4yaIA?si=6gtA8ML6GZrsd_5O
