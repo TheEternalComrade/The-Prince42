@@ -33,3 +33,7 @@ The Prince42 is a handwired, low-profile, wireless split keyboard. The impetus f
 |||||$92.80|
 
 *I already have these. The actual price is $88.67
+
+total build time:4 hours
+https://youtube.com/shorts/D0bNBm4yaIA?si=6gtA8ML6GZrsd_5O
+![20250807_223822](https://github.com/user-attachments/assets/71a70819-2d52-4e78-b00c-97a43729a8b8)
